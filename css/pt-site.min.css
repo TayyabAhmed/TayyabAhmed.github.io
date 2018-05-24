@@ -3123,7 +3123,7 @@ html.w-mod-js *[data-ix="cs-thumb-2"] {
         font-size: 1.8em
     }
     .cs-thumb__cat.fs-body-small {
-        display: none
+        font-size: 0.8em;
     }
     .b-clients__logo {
         max-height: 80%
